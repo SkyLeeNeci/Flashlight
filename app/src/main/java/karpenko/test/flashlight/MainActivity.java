@@ -17,7 +17,6 @@ import com.karumi.dexter.listener.PermissionGrantedResponse;
 import com.karumi.dexter.listener.PermissionRequest;
 import com.karumi.dexter.listener.single.PermissionListener;
 
-import dalvik.system.DexClassLoader;
 
 public class MainActivity extends AppCompatActivity {
 
